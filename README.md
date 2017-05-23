@@ -1,5 +1,12 @@
-email_processing
+FeedManager
 ==============
+## Overview
+This is a Feed manager application that supports 3 entities: Users, Feeds, Articles. 
+This application allows these entities to be created and managed. Some of the operations supported are:
+1. Subscribe/Unsubscribe a User to a Feed
+2. Add Articles to a Feed
+3. Get all Feeds a Subscriber is following
+4. Get Articles from the set of Feeds a Subscriber is following
 
 ## Requirements
 - Java 8, Maven 3.x
